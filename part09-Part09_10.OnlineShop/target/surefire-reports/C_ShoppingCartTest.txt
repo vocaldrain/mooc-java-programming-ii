@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: C_ShoppingCartTest
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.102 s <<< FAILURE! - in C_ShoppingCartTest
+shoppingWorks(C_ShoppingCartTest)  Time elapsed: 0.087 s  <<< FAILURE!
+java.lang.AssertionError: 
+the store was created just like in the example and the customers input was coffee<enter>bread<enter>water<enter><enter>
+ the stock of coffee should be reduced by one expected:<9> but was:<10>
+	at C_ShoppingCartTest.shoppingWorks(C_ShoppingCartTest.java:330)
+

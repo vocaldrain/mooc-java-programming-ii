@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="B_ItemTest" time="0.001" tests="10" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Chira\TMC\mooc-java-programming-ii\part09-Part09_10.OnlineShop\target\test-classes;C:\Users\Chira\TMC\mooc-java-programming-ii\part09-Part09_10.OnlineShop\target\classes;C:\Users\Chira\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Chira\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Chira\.m2\repository\fi\helsinki\cs\tmc\edu-test-utils\0.4.2\edu-test-utils-0.4.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Almaty"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="user.country" value="GB"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-1.8\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\Chira\AppData\Local\Temp\surefire7729557345734987016\surefirebooter3804263205044852371.jar C:\Users\Chira\AppData\Local\Temp\surefire7729557345734987016 2024-03-15T18-42-59_440-jvmRun1 surefire807959313768626282tmp surefire_01623789787506252242tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\Chira\TMC\mooc-java-programming-ii\part09-Part09_10.OnlineShop\target\test-classes;C:\Users\Chira\TMC\mooc-java-programming-ii\part09-Part09_10.OnlineShop\target\classes;C:\Users\Chira\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Chira\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Chira\.m2\repository\fi\helsinki\cs\tmc\edu-test-utils\0.4.2\edu-test-utils-0.4.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Chira"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-1.8\jre"/>
+    <property name="basedir" value="C:\Users\Chira\TMC\mooc-java-programming-ii\part09-Part09_10.OnlineShop"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Chira\AppData\Local\Temp\surefire7729557345734987016\surefirebooter3804263205044852371.jar"/>
+    <property name="jdk.net.URLClassPath.disableClassPathURLCheck" value="true"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk-1.8\jre\lib\resources.jar;C:\Program Files\Java\jdk-1.8\jre\lib\rt.jar;C:\Program Files\Java\jdk-1.8\jre\lib\jsse.jar;C:\Program Files\Java\jdk-1.8\jre\lib\jce.jar;C:\Program Files\Java\jdk-1.8\jre\lib\charsets.jar;C:\Program Files\Java\jdk-1.8\jre\lib\jfr.jar;C:\Program Files\Java\jdk-1.8\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_381-b09"/>
+    <property name="user.name" value="Chira"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk-1.8\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Chira\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Chira\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_381"/>
+    <property name="user.dir" value="C:\Users\Chira\TMC\mooc-java-programming-ii\part09-Part09_10.OnlineShop"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-1.8\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Microsoft SDKs\Azure\CLI2\wbin;C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python311\Scripts\;C:\Python311\;C:\Python310\Scripts\;C:\Python310\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\ProgramData\chocolatey\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.3.0\;C:\Program Files\gs\gs10.00.0\bin;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Pulumi\;C:\xampp\php;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Go\bin;C:\Program Files\RedHat\Podman\;C:\Program Files\nodejs\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\TMC-cli;C:\Program Files\usbipd-win\;C:\Program Files\PowerShell\7\;C:\Program Files\Vagrant\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Users\Chira\AppData\Local\Programs\Microsoft VS Code\bin;C:\ProgramData\Anaconda3\Library\bin\conda.bat;C:\ProgramData\Anaconda3\Scripts\conda.exe;C:\ProgramData\Anaconda3\condabin\conda.bat;C:\msys64\mingw64\bin;C:\Program Files\Java\jdk-1.8\bin;C:\Users\Chira\Downloads\apache-maven-3.9.4-bin\apache-maven-3.9.4\bin;C:\Program Files\Lens\resources\cli\bin;C:\Users\Chira\go\bin;C:\Users\Chira\AppData\Roaming\npm;C:\Users\Chira\AppData\Local\GitHubDesktop\bin;C:\Users\Chira\Downloads\chromedriver-win64\chromedriver-win64;C:\Users\Chira\ChangelogGenerator;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.2\bin;;C:\Users\Chira\OneDrive\Desktop\terraform;C:\Users\Chira\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.381-b09"/>
+    <property name="java.specification.maintenance.version" value="5"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk-1.8\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="priceIsCalculatedCorrectly" classname="B_ItemTest" time="0"/>
+  <testcase name="toStringImplemented" classname="B_ItemTest" time="0"/>
+  <testcase name="constructorExits" classname="B_ItemTest" time="0"/>
+  <testcase name="methodIncreaseQuantityExits" classname="B_ItemTest" time="0"/>
+  <testcase name="quantityIncreases" classname="B_ItemTest" time="0"/>
+  <testcase name="toStringWorksCorrectly2" classname="B_ItemTest" time="0"/>
+  <testcase name="toStringWorksCorrectly" classname="B_ItemTest" time="0"/>
+  <testcase name="classIsPublic" classname="B_ItemTest" time="0"/>
+  <testcase name="priceMethod" classname="B_ItemTest" time="0.001"/>
+  <testcase name="noExtraVariables" classname="B_ItemTest" time="0"/>
+</testsuite>
